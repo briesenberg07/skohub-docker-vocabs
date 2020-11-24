@@ -1,4 +1,3 @@
-```turtle
 @prefix dc: <http://dublincore.org/elements/1.1/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix color: <http://purl.org/dcx/color/> .
@@ -33,4 +32,3 @@ color:green a skos:Concept ;
     skos:prefLabel "green"@en , "緑色"@ja ;
     skos:topConceptOf color: .
     
-```
